@@ -3,7 +3,7 @@ import numpy as np
 import math
 
 
-cap = cv2.VideoCapture(r"C:\Users\Atif Traders\Music\Lane_detection_and_steering_module-main\drive.mp4")
+cap = cv2.VideoCapture(r"./drive.mp4")
 
 # def frame_detect_line(frame):
     

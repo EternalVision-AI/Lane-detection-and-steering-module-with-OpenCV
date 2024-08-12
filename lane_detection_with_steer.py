@@ -4,7 +4,7 @@ import time
 
 def read_vid():
     
-    img = cv2.VideoCapture(r"C:\Users\Atif Traders\Music\Lane_detection_and_steering_module-main\drive.mp4")
+    img = cv2.VideoCapture(r"./drive.mp4")
     return img
 
 
